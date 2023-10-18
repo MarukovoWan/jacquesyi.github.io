@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Musée Imaginaire on </title>
-    <link>http://jacquesyi.github.io/inspirations/</link>
+    <link>https://jacquesyi.github.io/inspirations/</link>
     <description>Recent content in Musée Imaginaire on </description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="http://jacquesyi.github.io/inspirations/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language><atom:link href="https://jacquesyi.github.io/inspirations/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

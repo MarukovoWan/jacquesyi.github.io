@@ -6,22 +6,40 @@
     <description>Recent content in Categories on </description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 31 Oct 2017 22:42:51 -0500</lastBuildDate><atom:link href="https://jacquesyi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Oct 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://jacquesyi.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>video</title>
-      <link>https://jacquesyi.github.io/categories/video/</link>
-      <pubDate>Tue, 31 Oct 2017 22:42:51 -0500</pubDate>
+      <title>film</title>
+      <link>https://jacquesyi.github.io/categories/film/</link>
+      <pubDate>Tue, 31 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jacquesyi.github.io/categories/video/</guid>
+      <guid>https://jacquesyi.github.io/categories/film/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>main</title>
-      <link>https://jacquesyi.github.io/categories/main/</link>
-      <pubDate>Tue, 31 Oct 2017 22:26:09 -0500</pubDate>
+      <title>commerce</title>
+      <link>https://jacquesyi.github.io/categories/commerce/</link>
+      <pubDate>Sun, 29 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://jacquesyi.github.io/categories/main/</guid>
+      <guid>https://jacquesyi.github.io/categories/commerce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>about</title>
+      <link>https://jacquesyi.github.io/categories/about/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacquesyi.github.io/categories/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>photo</title>
+      <link>https://jacquesyi.github.io/categories/photo/</link>
+      <pubDate>Sat, 28 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://jacquesyi.github.io/categories/photo/</guid>
       <description></description>
     </item>
     
